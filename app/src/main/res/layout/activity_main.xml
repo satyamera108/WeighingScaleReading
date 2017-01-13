@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	tools:context=".MainActivity" >
+
+	<Button
+		android:id="@+id/OpenButton1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="120dp"
+		android:text="@string/open_button"
+		android:layout_alignParentTop="true"
+		android:layout_alignParentRight="true" />
+
+	<Spinner
+		android:id="@+id/DevSpinner1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignBottom="@+id/OpenButton1"
+		android:layout_toLeftOf="@+id/OpenButton1" />
+
+	<TextView
+        android:id="@+id/tvText1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignBaseline="@+id/DevSpinner1"
+		android:layout_alignBottom="@+id/DevSpinner1"
+		android:layout_alignParentLeft="true"
+		android:layout_marginLeft="31dp" />
+
+</RelativeLayout>

@@ -1,0 +1,4 @@
+#Fri Jan 13 14:02:47 IST 2017
+base.0=A\:\\Weight\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=A\:\\Weight\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="A:\Weight\app\libs\PL2303.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c64da52399966ad8f1201efe5de024b03fe5f952">
+        <dex dex="A:\Weight\app\build\intermediates\pre-dexed\debug\PL2303_7eef7382af76002b6b0151c524fcc03de35a209b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satyam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="A:\Weight\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_9e16119c2abe5f8874f2167538915dc13cf1ed11.jar" />
+    </item>
+
+</items>

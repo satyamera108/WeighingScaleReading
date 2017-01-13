@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "A:\\Original\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "A:\\Original\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\Weight\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "A:\\Weight\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

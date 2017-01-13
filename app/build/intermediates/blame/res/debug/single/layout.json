@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "A:\\Weight\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "A:\\Weight\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "A:\\Original\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "A:\\Original\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

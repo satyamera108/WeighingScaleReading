@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "A:\\Original\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "A:\\Original\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "A:\\Weight\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "A:\\Weight\\app\\src\\main\\res\\xml\\device_filter.xml"
+    }
+]
